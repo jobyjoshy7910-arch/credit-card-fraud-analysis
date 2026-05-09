@@ -206,3 +206,5 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 creditcard.csv 
+fraud_analysis.db 
+chart7_scatter.png 
